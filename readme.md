@@ -19,6 +19,7 @@ The SmartBus Alert System is a dynamic notification platform designed to enhance
 - NXP PN532 V3 Kit Reader
 - USB Audio Adapter with 3.5mm Speaker-Headphone
 - Wireless USB adapter
+- Joystick Buttons + External Button
 
 ### Setup
 
@@ -31,3 +32,8 @@ Compile the json parse
 5. sudo apt-get install libnfc-bin:armhf
 6. sudo apt-get install libnfc-examples:armhf
 7. sudo apt-get install flite:armhf
+
+### Demo Images
+
+![PXL_20240412_101536334 RAW-01 COVER](https://github.com/JackyL-CyberTofu/SmartBus-Alert-System/assets/67818606/e5a52abe-1da4-43ef-9610-f9cb79b3d3e6)
+![PXL_20240412_101447714 RAW-01 COVER](https://github.com/JackyL-CyberTofu/SmartBus-Alert-System/assets/67818606/92227552-183f-45a0-8816-0fb4d16f8736)
